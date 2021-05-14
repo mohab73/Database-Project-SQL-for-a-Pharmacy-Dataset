@@ -1,0 +1,11 @@
+Business rules:
+1- one employee may control one or more sales movements.
+2- one sale movement must be controlled by one and only one employee.
+3- a supplier may send one or more items.
+4- an item must be sent by one or more suppliers.
+5- an item may be contained in one or more sales movements.
+6- sales movements must contain one or more items.
+
+
+Note:
+This project was done in group.
