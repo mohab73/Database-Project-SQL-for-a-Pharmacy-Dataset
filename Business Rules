@@ -5,7 +5,3 @@ Business rules:
 4- an item must be sent by one or more suppliers.
 5- an item may be contained in one or more sales movements.
 6- sales movements must contain one or more items.
-
-
-Note:
-This project was done in group.
