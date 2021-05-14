@@ -1,2 +1,2 @@
 Note:
-This project was done in group.
+This project was done in a group.
